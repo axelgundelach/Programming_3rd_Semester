@@ -1,11 +1,10 @@
 public class Main {
 
+
     public static void main(String[] args ) {
 
-        Main.print();
+        Systemos.println(5);
+        Systemos.println("tekst");
     }
 
-    public static void print(){
-       System.out.print("Dette er en string");
-    }
 }
