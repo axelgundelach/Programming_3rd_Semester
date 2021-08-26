@@ -1,0 +1,4 @@
+Task 1: create a main method that does nothing:
+
+* public class Main;
+
